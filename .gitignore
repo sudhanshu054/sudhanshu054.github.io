@@ -1,9 +1,27 @@
-node_modules
-dist
-.DS_Store
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
 *.log
-preview.html
-bundle.js
-extract-css.js
-extract-index-css.js
-portfolio.java
+npm-debug.log*
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.vite/
+
+# Optional: keep lockfile tracked (recommended), but ignore if you don't want it
+# package-lock.json
