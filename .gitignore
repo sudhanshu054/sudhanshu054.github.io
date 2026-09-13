@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+preview.html
+bundle.js
+extract-css.js
+extract-index-css.js
+portfolio.java
