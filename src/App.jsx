@@ -15,7 +15,7 @@ import {
 import './App.css';
 
 const resumeUrl =
-  'https://customer-assets-4nw71qhi.emergentagent.net/job_2ad18340-36c9-437a-8da8-5968821376e4/artifacts/v2of64eg_Sudhanshu_Pal_Resume.pdf';
+  'https://drive.google.com/file/d/12fQGuEjU1of9SlRCB18dg-QS6wHqfsUh/view?usp=sharing';
 
 const projects = [
   {
