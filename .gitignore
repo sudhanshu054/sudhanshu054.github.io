@@ -20,8 +20,5 @@ Thumbs.db
 .cache/
 .vite/
 
-# Build output
-dist/
-
 # Optional: keep lockfile tracked (recommended), but ignore if you don't want it
 # package-lock.json
