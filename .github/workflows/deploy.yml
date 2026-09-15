@@ -24,6 +24,9 @@ jobs:
       - name: Clean dist
         run: rm -rf dist
 
+      - name: Clean Vite cache
+        run: rm -rf node_modules/.vite
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -34,7 +37,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build
+        run: npm run build -- --force
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
