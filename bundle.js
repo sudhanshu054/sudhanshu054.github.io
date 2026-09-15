@@ -38,9 +38,9 @@ var _jsxFileName = "/app/frontend/src/App.js",
 
 
 
-const BACKEND_URL = "https://resume-portfolio-pro-13.preview.emergentagent.com";
+const BACKEND_URL = "https://sudhanshu054.github.io/";
 const API = `${BACKEND_URL}/api`;
-const resumeUrl = "https://customer-assets-4nw71qhi.emergentagent.net/job_2ad18340-36c9-437a-8da8-5968821376e4/artifacts/v2of64eg_Sudhanshu_Pal_Resume.pdf";
+const resumeUrl = "https://drive.google.com/file/d/12fQGuEjU1of9SlRCB18dg-QS6wHqfsUh/view?usp=sharing";
 const projects = [{
   number: "01",
   title: "MyHospital",
