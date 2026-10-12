@@ -15,7 +15,7 @@ import {
 import './App.css';
 
 const resumeUrl =
-  'https://drive.google.com/file/d/12fQGuEjU1of9SlRCB18dg-QS6wHqfsUh/view?usp=sharing';
+  'https://drive.google.com/file/d/12fQGuEjU1of9SlRCB18dg-QS6wHqfsUh/view?usp=drive_link';
 
 const projects = [
   {
